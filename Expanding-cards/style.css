@@ -2,24 +2,25 @@
     box-sizing: border-box;
 }
 
+h3 {
+    opacity: 0.2;
+    transition: opacity 1s ease-in;
+}
+
 #one {
-    background-image: url("../480831950_122144124164455393_1647961077331533466_n.jpg");
+    background-image: url("assets/spring.avif");
 }
 
 #two {
-    background-image: url("../480831950_122144124164455393_1647961077331533466_n.jpg");
+    background-image: url("assets/summer.avif");
 }
 
 #three {
-    background-image: url("../480831950_122144124164455393_1647961077331533466_n.jpg");
+    background-image: url("assets/fall.avif");
 }
 
 #four {
-    background-image: url("../480831950_122144124164455393_1647961077331533466_n.jpg");
-}
-
-#five {
-    background-image: url("../480831950_122144124164455393_1647961077331533466_n.jpg");
+    background-image: url("assets/winter.avif");
 }
 
 body {
