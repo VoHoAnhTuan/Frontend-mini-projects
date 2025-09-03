@@ -14,25 +14,25 @@ Great for practice, learning, or building a portfolio
 
 📂 Example Projects
 
-✅ To-Do List
+✅ Expanding cards
 
-✅ Color Picker
+✅ Progress steps
 
-✅ Digital Clock
+✅ Rotating nav
 
-✅ Weather App (API based)
+✅ 
 
-✅ Calculator
+✅ 
 
-✅ Form Validation
+✅ 
 
-✅ Image Slider
+✅ 
 
 💡 Usage
 
 Clone the repo:
 
-git clone https://github.com/VoHoAnhTuan/frontend-mini-projects.git
+    git clone https://github.com/VoHoAnhTuan/frontend-mini-projects.git
 
 
 Open any project folder
